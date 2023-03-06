@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "00.helloworld",
+        "01.First_JNI"
+    ],
+    "files.associations": {
+        "stdlib.h": "c",
+        "jni.h": "c"
+    }
+}
